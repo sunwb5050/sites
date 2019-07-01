@@ -1,0 +1,6 @@
+Django==2.2
+Markdown==3.1.1
+Pygments==2.4.2
+pytz==2018.9
+sqlparse==0.3.0
+virtualenv==16.4.3

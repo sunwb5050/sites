@@ -24,7 +24,7 @@ SECRET_KEY = '$9%94tbb_w!-6$8a*mxn1h!-(fjbh@wojr1o^8#)6b0b&_w_0^'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.sunwb5050.site']
+ALLOWED_HOSTS = ['127.0.0.1', 'iZ2zec4p5bgsyu5gdnz5qzZ', '.sunwb5050.site']
 
 ALLOWED_HOSTS = []
 
